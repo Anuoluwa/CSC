@@ -29,7 +29,7 @@ Output Format
 Return the absolute difference between the sums of the matrix's two diagonals as a single integer. */
 
 
-// solution 
+// solution : I first solved this on HackerRank
 
 let matrix = [
     [1, 2, 3],
